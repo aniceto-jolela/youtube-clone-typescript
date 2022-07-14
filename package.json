@@ -16,6 +16,7 @@
     "@mui/material": "^5.8.7",
     "@mui/styles": "^5.8.7",
     "add": "^2.0.6",
+    "dayjs": "^2.0.0-alpha.2",
     "next": "12.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
